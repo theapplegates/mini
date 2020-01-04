@@ -8,9 +8,9 @@ module.exports = {
           spaceId: "itzcgbb28n96",
           accessToken: "QIhHsn-YP0lMWNsyNLnWKr9E5_76TgehtZVZw1Ej7SU"
         },
-        title: "Your title",
-        description: "Your description",
-        siteUrl: 'https://example.com', // no trailing slash
+        title: "Living Life",
+        description: "and writing some things down",
+        siteUrl: 'https://objective-jennings-0c6dfa.netlify.com', // no trailing slash
       }
     }
   ]
